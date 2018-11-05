@@ -10,7 +10,7 @@ User has an administrator password.                                             
 
 User's availabilities:
 
-List Events Specific Date
+List Events Specific Date\n
 Create New Record
 Update Record
 Delete a Record
